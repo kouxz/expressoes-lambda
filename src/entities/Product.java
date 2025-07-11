@@ -24,6 +24,9 @@ public class Product {
     public void setPrice(double price) {
         this.price = price;
     }
+    public static String staticUpperCaseName(Product p) {
+        return p.getName().toUpperCase();
+    }
 
     @Override
     public String toString() {
