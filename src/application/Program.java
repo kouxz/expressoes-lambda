@@ -1,3 +1,6 @@
+// Exercicio de Function, Stream e Lambda
+// Implementação da interface Function para converter nomes de produtos para maiúsculas
+
 package application;
 
 import java.util.ArrayList;
